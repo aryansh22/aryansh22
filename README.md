@@ -14,9 +14,9 @@ This space will soon be home to the projects I’ll be building — stay tuned!
 - Web development fundamentals
 
 ### 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/aryansh-shrivastava-41b569368/)
+- [LinkedIn](https://www.linkedin.com/in/aryansh22)
 - [X (Twitter)](https://x.com/AryanshShr11889)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryansh-shrivastava&style=flat-square&color=blue" alt="profile views"/>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=aryansh-shrivastava&style=flat-square&color=blue" alt
+
